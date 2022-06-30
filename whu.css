@@ -1,0 +1,25 @@
+.container{
+    width:400px;
+    height:120px;
+    text-align:center;
+    margin:auto;
+    margin-top:30vh;
+    background:rgba(140, 75, 186, 0.4);
+    border:5px solid white;
+    border-radius:20px;
+}
+
+#demo{
+    margin-left:100px;;
+    width:150px;
+    height:50px;
+    font-size:20px;
+    color:rgba(60, 209, 191, 0.732)
+}
+.button{
+    border:5px solid yellowgreen;
+    border-radius:5px;
+}
+body{
+    background:black;
+}
